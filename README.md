@@ -3,7 +3,7 @@
 ## Descrição
 API CRUD para gestão de brinquedos infantis desenvolvida em .NET com Entity Framework Core.
 
-## RM553991
+## RM553991 - 2TDSZ
 
 ## Tecnologias
 - .NET 7
